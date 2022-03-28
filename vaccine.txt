@@ -1,0 +1,42 @@
+AZ1092
+AstraZeneca
+United Kingdom
+25-11-2021
+25-07-2022
+650
+Selangor Centre
+PF0912
+Pfizer
+United States
+30-11-2021
+30-10-2022
+2000
+Ipoh Centre
+MD1201
+Moderna
+United States
+10-12-2021
+1-01-2022
+1000
+Johor Centre
+AZ7122
+AstraZeneca
+Thailand
+05-12-2021
+30-10-2022
+2000
+Kuala Lumpur Centre
+SN1002
+Sinovac
+China
+01-12-2021
+01-06-2022
+1250
+Ipoh Centre
+PF8113
+Pfizer
+United States
+27-11-2021
+17-04-2022
+200
+Sarawak Centre

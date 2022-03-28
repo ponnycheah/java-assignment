@@ -1,0 +1,65 @@
+001012105299
+09-11-2021
+Session 1 (8am ~ 1pm)
+Ipoh Centre
+Pfizer
+A39776137
+16-12-2021
+Session 2 (2pm ~ 7pm)
+Selangor Centre
+AstraZeneca
+010825140892
+02-10-2021
+Session 1 (8am ~ 1pm)
+Selangor Centre
+AstraZeneca
+PA0909090
+12-11-2021
+Session 2 (2pm ~ 7pm)
+Kuala Lumpur Centre
+Sinovac
+840630088106
+01-10-2021
+Session 1 (8am ~ 1pm)
+Sarawak Centre
+Pfizer
+010825140892
+04-12-2021
+Session 2 (2pm ~ 7pm)
+Selangor Centre
+AstraZeneca
+780202105378
+26-12-2021
+Session 1 (8am ~ 1pm)
+Sarawak Centre
+Pfizer
+960319012319
+01-01-2022
+Session 1 (8am ~ 1pm)
+Selangor Centre
+AstraZeneca
+851012143107
+21-11-2021
+Session 1 (8am ~ 1pm)
+Kuala Lumpur Centre
+AstraZeneca
+661209028718
+07-02-2022
+Session 1 (8am ~ 1pm)
+Ipoh Centre
+Pfizer
+PA0909090
+16-12-2021
+Session 1 (8am ~ 1pm)
+Kuala Lumpur Centre
+Sinovac
+840630088106
+08-11-2021
+Session 1 (8am ~ 1pm)
+Sarawak Centre
+Pfizer
+840630088106
+30-12-2021
+Session 1 (8am ~ 1pm)
+Sarawak Centre
+Pfizer
